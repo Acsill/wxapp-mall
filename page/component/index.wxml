@@ -19,7 +19,7 @@
         <view class="select-top">
             <view class="select-top-small">
                 <navigator url="list/list">
-                    <image src="/image/s1.png"></image>
+                    <image src="/image/c3.png"></image>
                 </navigator>
             </view>
             <view class="select-top-small">
@@ -46,13 +46,6 @@
             </view>
             <view class="newest-list">
                 <navigator url="details/details">
-                    <image src="/image/s5.png"></image>
-                    <view class="newest-text"><text>芹菜 半斤</text></view>
-                    <view class="newest-text"><text>￥ 0.02</text></view>
-                </navigator>
-            </view>
-            <view class="newest-list">
-                <navigator url="details/details">
                     <image src="/image/s6.png"></image>
                     <view class="newest-text"><text>素米 375g</text></view>
                     <view class="newest-text"><text>￥ 0.03</text></view>
@@ -60,43 +53,8 @@
             </view>
             <view class="newest-list">
                 <navigator url="details/details">
-                    <image src="/image/s4.png"></image>
-                    <view class="newest-text"><text>瓜子 100g</text></view>
-                    <view class="newest-text"><text>￥ 0.01</text></view>
-                </navigator>
-            </view>
-            <view class="newest-list">
-                <navigator url="details/details">
-                    <image src="/image/s5.png"></image>
-                    <view class="newest-text"><text>芹菜 半斤</text></view>
-                    <view class="newest-text"><text>￥ 0.02</text></view>
-                </navigator>
-            </view>
-            <view class="newest-list">
-                <navigator url="details/details">
-                    <image src="/image/s6.png"></image>
-                    <view class="newest-text"><text>素米 375g</text></view>
-                    <view class="newest-text"><text>￥ 0.03</text></view>
-                </navigator>
-            </view>
-            <view class="newest-list">
-                <navigator url="details/details">
-                    <image src="/image/s4.png"></image>
-                    <view class="newest-text"><text>瓜子 100g</text></view>
-                    <view class="newest-text"><text>￥ 0.01</text></view>
-                </navigator>
-            </view>
-            <view class="newest-list">
-                <navigator url="details/details">
-                    <image src="/image/s5.png"></image>
-                    <view class="newest-text"><text>芹菜 半斤</text></view>
-                    <view class="newest-text"><text>￥ 0.02</text></view>
-                </navigator>
-            </view>
-            <view class="newest-list">
-                <navigator url="details/details">
-                    <image src="/image/s6.png"></image>
-                    <view class="newest-text"><text>素米 375g</text></view>
+                    <image src="/image/c3.png"></image>
+                    <view class="newest-text"><text>红枣 375g</text></view>
                     <view class="newest-text"><text>￥ 0.03</text></view>
                 </navigator>
             </view>
