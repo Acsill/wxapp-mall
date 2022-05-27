@@ -4,10 +4,10 @@ Page({
     goods: {
       id: 1,
       image: '/image/goods1.png',
-      title: '新鲜大米带雨',
+      title: '新鲜大米',
       price: 0.01,
       stock: '有货',
-      detail: '这里是大米带雨详情。',
+      detail: '这里是大米详情。',
       parameter: '125g/个',
       service: '不支持退货'
     },

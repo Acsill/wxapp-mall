@@ -36,7 +36,7 @@
                     <view class="product-list">
                         <navigator url="../list/list">
                             <image src="/image/s6.png"></image>
-                            <view class="classname"><text>大米带雨 3个</text></view>
+                            <view class="classname"><text>大米 3个</text></view>
                         </navigator>
                     </view>
                 </view>
@@ -54,7 +54,7 @@
                     <view class="product-list">
                         <navigator url="../list/list">
                             <image src="/image/s6.png"></image>
-                            <view class="classname"><text>大米带雨 3个</text></view>
+                            <view class="classname"><text>大米 3个</text></view>
                         </navigator>
                     </view>
                 </view>
