@@ -14,7 +14,7 @@
         <view class="newest-list">
             <navigator url="../details/details">
                 <image src="/image/s5.png"></image>
-                <view class="newest-text"><text>芹菜 半斤</text></view>
+                <view class="newest-text"><text>红枣 半斤</text></view>
                 <view class="newest-text"><text>￥ 0.02</text></view>
             </navigator>
         </view>

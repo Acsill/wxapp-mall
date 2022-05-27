@@ -2,7 +2,7 @@ let timeId = null;
 Page({
     data: {
         history: [],
-        hot: ['新鲜芹菜', '大红枣', '滋补桂圆干'],
+        hot: ['新鲜红枣', '大红枣', '滋补桂圆干'],
         result: [
             {
                 id: 1,
@@ -15,7 +15,7 @@ Page({
                 id: 2,
                 url: '../details/details',
                 thumb: '/image/s5.png',
-                title: '新鲜芹菜 500g',
+                title: '新鲜红枣 500g',
                 price: 0.02
             }
         ],
